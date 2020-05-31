@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on Sunfish Blog</title>
+    <link>https://yusaku-h.github.io/tags/hugo/</link>
+    <description>Recent content in hugo on Sunfish Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sun, 31 May 2020 11:50:05 +0900</lastBuildDate>
+    
+	<atom:link href="https://yusaku-h.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>31052020_01</title>
+      <link>https://yusaku-h.github.io/post/31052020_01/</link>
+      <pubDate>Sun, 31 May 2020 11:50:05 +0900</pubDate>
+      
+      <guid>https://yusaku-h.github.io/post/31052020_01/</guid>
+      <description>Hanaue </description>
+    </item>
+    
+  </channel>
+</rss>
