@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sunfish Blog</title>
+    <title>Easygoing</title>
     <link>https://yusaku-h.github.io/</link>
-    <description>Recent content on Sunfish Blog</description>
+    <description>Recent content on Easygoing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sun, 31 May 2020 11:50:05 +0900</lastBuildDate>
@@ -17,7 +17,7 @@
       <pubDate>Sun, 31 May 2020 11:50:05 +0900</pubDate>
       
       <guid>https://yusaku-h.github.io/2020/05/github-pages-hugo%E3%81%A7%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E4%BD%9C%E3%82%8B/</guid>
-      <description>全然違うことの勉強してたはずなのに、気づいたらブログを作ろうと思ってあれこれやって時間を潰した週末。
+      <description>全然違うことの勉強してたはずなのに、気づいたらブログを作ろうと思ってあれこれやって時間を潰した今日。
 とはいえ、うっすら、何かつらつらと書きたいときに、なにか良いツールがないか考えてまして。 noteとかはてなとかでも良かったんだけど天の邪鬼だから、もちっと何かないかと。
 ということで見つけたのがGitHub Pages＋Hugoの構成。
    Category Service     Web Server GitHub Pages   Static Site Generator Hugo    GitHub Pages  サーバ代かからない SSLもつくし、特段の設定も要らない（デフォルト：ON）  サーバたてなくて良いという意味でGoogleDriveも考えたけど、デプロイのことを考えると リポジトリにpushするだけで良いからGithub Pagesを使うことに。
