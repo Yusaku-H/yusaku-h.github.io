@@ -12,12 +12,19 @@
     
     
     <item>
-      <title>31052020_01</title>
-      <link>https://yusaku-h.github.io/2020/05/31052020_01/</link>
+      <title>Github Pages &#43; Hugoでブログを作る</title>
+      <link>https://yusaku-h.github.io/2020/05/github-pages-hugo%E3%81%A7%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E4%BD%9C%E3%82%8B/</link>
       <pubDate>Sun, 31 May 2020 11:50:05 +0900</pubDate>
       
-      <guid>https://yusaku-h.github.io/2020/05/31052020_01/</guid>
-      <description>Github Pages + Hugoでブログを作る </description>
+      <guid>https://yusaku-h.github.io/2020/05/github-pages-hugo%E3%81%A7%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E4%BD%9C%E3%82%8B/</guid>
+      <description>全然違うことの勉強してたはずなのに、気づいたらブログを作ろうと思ってあれこれやって時間を潰した週末。
+とはいえ、うっすら、何かつらつらと書きたいときに、なにか良いツールがないか考えてまして。 noteとかはてなとかでも良かったんだけど天の邪鬼だから、もちっと何かないかと。
+ということで見つけたのがGitHub Pages＋Hugoの構成。
+   Category Service     Web Server GitHub Pages   Static Site Generator Hugo    GitHub Pages  サーバ代かからない SSLもつくし、特段の設定も要らない（デフォルト：ON）  サーバたてなくて良いという意味でGoogleDriveも考えたけど、デプロイのことを考えると リポジトリにpushするだけで良いからGithub Pagesを使うことに。
+Hugo 静的サイトジェネレーターについては色々あるようなんだけど、まったく知見がなかったので適当にググってよく使われてそうなHugoに。 StaticGenみる限りでは、一番人気はNext.jsなのかな。
+しかし まったくテンプレを使いこなせてない。ゆるりと使い方をマスターしていこう。 完璧にしてからリリースしようとすると、二度と日の目を見ないパターンだったし。がしかし次の投稿も最早ないかもしれない。。
+Reference 下記のサイトを参考にさせていただきました。ありがとうございます。
+ Github pages + Hugoでブログ構築 HUGO GitHub Pages StaticGen  </description>
     </item>
     
   </channel>
